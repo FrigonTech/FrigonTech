@@ -18,7 +18,7 @@
 
 ### 🌐 Connect With Me
 - [YouTube](https://www.youtube.com/@FrigonTech)
-- [Instagram]([https://instagram.com/](https://www.instagram.com/frigontech/))
+- [Instagram](https://instagram.com/https://www.instagram.com/frigontech/)
 - [Twitter](https://x.com/FrigonTech)
 
 ### 📌 Featured Projects
