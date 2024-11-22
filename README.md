@@ -3,10 +3,9 @@
 ## 💻 Software Developer | Tech Enthusiast
 
 ### About Me
-- 🔭 I'm currently working on [current project]
-- 🌱 I'm currently learning [technologies you're learning]
-- 👯 Open to collaborating on interesting projects
-- 💬 Ask me about [your areas of expertise]
+🎥I make videos in [YouTube](https://www.youtube.com/@FrigonTech) sharing my experiences and projects for free.
+🎮I also make games in Unreal Engine 4.
+📸I do composite photography and share it on my [Instagram](https://instagram.com/https://www.instagram.com/frigontech/).
 
 ### Tech Stack
 - Languages: [Python, C#, C++]
