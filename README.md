@@ -13,7 +13,7 @@
 - Tools: [Docker, VS Code, Visual Studio 2022, Unreal Engine]
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrigonTech&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigonTech&layout=compact&theme=radical)
 
 ### 🌐 Connect With Me
 - [YouTube](https://www.youtube.com/@FrigonTech)
