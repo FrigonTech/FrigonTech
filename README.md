@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm FrigonTech
 
-<!--
-**FrigonTech/FrigonTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I'm currently working on [current project]
+- 🌱 I'm currently learning [technologies you're learning]
+- 👯 Open to collaborating on interesting projects
+- 💬 Ask me about [your areas of expertise]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Languages: [Python, C#, C++]
+- Frontend: [HTML/CSS]
+- Tools: [Docker, VS Code, Visual Studio 2022, Unreal Engine]
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrigonTech&show_icons=true&theme=radical)
+
+### 🌐 Connect With Me
+- [YouTube](https://www.youtube.com/@FrigonTech)
+- [Instagram]([https://instagram.com/](https://www.instagram.com/frigontech/))
+- [Twitter](https://x.com/FrigonTech)
+
+### 📌 Featured Projects
+- [Windowsland Overlay]: A windows overlay inspired by Iphone dynamic island. For aesthetic look and some usable functionality.
+- [URL Meeting Auto-Joiner]: Command-Line Program. You can add any scheduled meedtings you need to join through a URL and it will automatically launch a URL on scheduled time.
+- [Project-X]: Not disclosed to public yet
