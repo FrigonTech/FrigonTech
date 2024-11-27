@@ -13,8 +13,7 @@
 - Tools: [Docker, VS Code, Visual Studio 2022, Unreal Engine]
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigonTech&layout=compact&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigonTech&layout=pie)](https://github.com/FrigonTech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigonTech&layout=donut)](https://github.com/FrigonTech/github-readme-stats)
 
 ### 🌐 Connect With Me
 - [YouTube](https://www.youtube.com/@FrigonTech)
