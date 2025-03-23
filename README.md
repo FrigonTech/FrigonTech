@@ -8,9 +8,9 @@
 📸I do composite photography and share it on my [Instagram](https://instagram.com/https://www.instagram.com/frigontech/).
 
 ### Tech Stack
-- Languages: [Python, C#, C++]
+- Languages: [Python, C#, C/C++, Kotlin]
 - Frontend: [HTML/CSS]
-- Tools: [Docker, VS Code, Visual Studio 2022, Unreal Engine]
+- Tools: [Docker, VS Code, Visual Studio 2022, Unreal Engine, Android Studio]
 
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigonTech&layout=donut&theme=github_dark)](https://github.com/FrigonTech/github-readme-stats)
