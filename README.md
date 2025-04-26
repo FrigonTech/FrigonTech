@@ -1,4 +1,4 @@
-# Hi there 👋, I'm FrigonTech
+# Hi there 👋, I'm Frigon Tech
 
 ## 💻 Software Developer | Tech Enthusiast
 
