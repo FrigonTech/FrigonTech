@@ -6,6 +6,7 @@
 🎥 I make videos on [YouTube](https://www.youtube.com/@FrigonTech) sharing my coding experiences and software projects.
 🎮 I also create and share game templates in Unreal Engine 4.
 📸 I do composite photography and showcase it on my [Instagram](https://www.instagram.com/frigontech/).
+🌐 I update about myself on my live portfolio [Portfolio](https://frigontech-portfolio.vercel.app).
 
 ### 🚀 Portfolio & Showcase
 Want to see my full collection of software applications, game development projects, and technical experiments? Visit my official developer portfolio:
